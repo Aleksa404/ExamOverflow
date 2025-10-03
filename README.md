@@ -14,7 +14,7 @@ ExamOverflow is a platform designed to assist students in preparing for exams by
 🔙 Backend – ASP.NET Core (C#)
 - ASP.NET Core Web API: Handles RESTful endpoints for managing questions, user data, and other resources.
 
-- Entity Framework Core: Facilitates database interactions, likely with a relational database such as SQL Server.
+- Entity Framework Core: Used for SQL Server interactions.
 
 - Authentication & Authorization: Implements secure user authentication mechanisms to protect user data and manage access.
 
